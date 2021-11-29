@@ -1,1 +1,1 @@
-# ScS_BT3_SolveRuby_nhatLong
+# Số bài tập giải được 26/40
